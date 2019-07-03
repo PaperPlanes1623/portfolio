@@ -37,6 +37,7 @@ class App extends Component {
       <h3>HTML</h3>
       <h3>CSS/CSS3/Sass/Semantic-UI/Bootstrap</h3>
       <h3>Javascript/ES6/ReactJS/Node.js/Angular</h3>
+      <h3>Rails/Django</h3>
   </div>
     </section>
 
